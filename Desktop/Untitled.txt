@@ -1,0 +1,7 @@
+      
+var n=prompt("enter the vaule");
+for(a=1;a<=10;a++){
+console.log(n+"x"+a+"="+a*n)
+
+
+}

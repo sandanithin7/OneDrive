@@ -1,0 +1,45 @@
+#menu {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  #menu h1 {
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  #menu h2 {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  #menu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  #menu li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0;
+  }
+  
+  #menu .name {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  #menu .price {
+    font-size: 20px;
+    font-weight: bold;
+    color: #f00;
+  }
